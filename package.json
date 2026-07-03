@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/amrutha-pjm/auto-suggest/issues"
   },
-  "homepage": "https://github.com/amrutha-pjm/auto-suggest#readme"
+  "homepage": "https://github.com/amrutha-pjm/auto-suggest#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
